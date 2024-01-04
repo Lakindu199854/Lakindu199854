@@ -1,7 +1,7 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/vector-line-concept-computer-science-vector-line-concept-computer-science-web-linear-banner-programming-104585701.jpg?w=992)
+
 <h1 align="center">Hi 👋, I'm Lakindu Wickramaratne</h1>
 <h3 align="center">A passionate Learner</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/d8/d82dba6b87e39033e332a3b4ecd85f37_w200.gif">
+
 
 
 - 🔭 I’m currently working on **mentor-mMentor Match app connecting mentors with mentees**
