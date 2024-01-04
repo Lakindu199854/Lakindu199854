@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lakindu Wickramaratne</h1>
-<h3 align="center">A passionate Learner</h3>
+<h3 align="center">A passionate learner who thrives on self-learning through hard work and loves problem-solving.</h3>
 
 
 
