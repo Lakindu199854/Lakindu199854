@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **mentor-mMentor Match app connecting mentors with mentees**
 
-- 
-
 - 📫 How to reach me **Lakinduat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
