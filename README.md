@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Lakindu Wickramaratne</h1>
 <h3 align="center">A passionate learner who thrives on self-learning through hard work and loves problem-solving.</h3>
 
-
-
-- 🔭 I’m currently working on **mentor-mMentor Match app connecting mentors with mentees**
-
 - 📫 How to reach me **Lakinduat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
