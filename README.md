@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **mentor-mMentor Match app connecting mentors with mentees**
 
-- 🌱 I’m currently learning **Angular**
+- 
 
 - 📫 How to reach me **Lakinduat@gmail.com**
 
